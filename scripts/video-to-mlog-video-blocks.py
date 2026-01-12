@@ -1,5 +1,5 @@
 # Attention
-# This script was created by using ai
+# This script was created with using ai
 
 
 import argparse
