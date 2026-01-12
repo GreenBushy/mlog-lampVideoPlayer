@@ -1,5 +1,5 @@
-# mlog-lampPlayer
-Scheme and tool to play video in mlog-lampPlayer 
+# mlog-lampVideoPlayer
+Scheme and tool to play video in mlog-lampVideoPlayer
 
 
 ---
