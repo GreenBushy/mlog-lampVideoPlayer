@@ -2,6 +2,20 @@
 Scheme and tool to play video in mlog-lampVideoPlayer
 
 
+
+---
+<img width="672" height="566" alt="image" src="https://github.com/user-attachments/assets/6f2fd873-b7f0-457a-93d7-3f4355432f28" />
+
+
+# notes
+
+> The video is best viewed using the minimap
+
+> I created all the animations embedded in the scheme
+
+> Video with bad apple: https://youtu.be/ZqajnkdD2ag
+
+
 ---
     The first thing you need to do is launch Mindustry.
     Go to Mods.
@@ -69,7 +83,7 @@ They store video data **as strings**:
 → 1 string = 1 data channel  
 → 3 channels = 1 video frame  
 → 1 logic processor holds **up to 16 frames** at **52×39 resolution** (player display size)
-→ Each corlor channel contains **92 data values** (i mean symbols more then 92 in single string. We are support 92 symbols)
+Color Depth: 92 values
 
 You may then:  
 - Copy them as a **logic schematic**, *or*  
