@@ -83,7 +83,7 @@ They store video data **as strings**:
 → 1 string = 1 data channel  
 → 3 channels = 1 video frame  
 → 1 logic processor holds **up to 16 frames** at **52×39 resolution** (player display size)
-Color Depth of single channel: 92 values
+→ Color Depth of single channel: 92 values
 
 You may then:  
 - Copy them as a **logic schematic**, *or*  
